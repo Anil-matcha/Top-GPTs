@@ -8,6 +8,7 @@ The conversion is done using this popular repo https://github.com/SamurAIGPT/Ope
 
 https://github.com/Anil-matcha/Top-GPTs/assets/4326215/7eeacbc7-f1a5-4aef-98a0-9495b596a168
 
+Want to add authentication, analytics and monetization to your GPT ? -> Check https://gpt-auth.com/
 
 
 ## GPT Demos
